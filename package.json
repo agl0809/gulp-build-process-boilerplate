@@ -1,0 +1,23 @@
+{
+  "name": "gulp-karma-webpack-boilerplate",
+  "version": "0.1.0-0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agl0809/gulp-karma-webpack-boilerplate.git"
+  },
+  "keywords": [
+    "javascript",
+    "testing",
+    "ci",
+    "code coverage"
+  ],
+  "author": "Antonio Garcia Leon",
+  "license": "MIT",
+  "homepage": "https://github.com/agl0809/gulp-karma-webpack-boilerplate",
+  "devDependencies": {}
+}
