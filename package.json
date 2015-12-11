@@ -1,5 +1,5 @@
 {
-  "name": "gulp-dist-process-boilerplate",
+  "name": "gulp-build-process-boilerplate",
   "version": "0.1.0",
   "description": "Gulp build process that lets you to generate distribution code through JSHint validation, concat files, and minify JavaScript.",
   "main": "src/Person.js",
