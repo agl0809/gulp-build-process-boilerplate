@@ -1,24 +1,21 @@
 {
-  "name": "gulp-karma-webpack-boilerplate",
-  "version": "0.1.0-0",
-  "description": "",
-  "main": "",
-  "scripts": {
-    "test": ""
-  },
+  "name": "gulp-dist-process-boilerplate",
+  "version": "0.1.0",
+  "description": "Gulp build process that lets you to generate distribution code through JSHint validation, concat files, and minify JavaScript.",
+  "main": "src/Person.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agl0809/gulp-karma-webpack-boilerplate.git"
+    "url": "git+https://github.com/agl0809/gulp-dist-process-boilerplate.git"
   },
   "keywords": [
     "javascript",
-    "testing",
-    "ci",
-    "code coverage"
+    "gulp",
+    "minify",
+    "jshint"
   ],
   "author": "Antonio Garcia Leon",
   "license": "MIT",
-  "homepage": "https://github.com/agl0809/gulp-karma-webpack-boilerplate",
+  "homepage": "https://github.com/agl0809/gulp-dist-process-boilerplate",
   "devDependencies": {
     "del": "^2.2.0",
     "gulp": "^3.9.0",
@@ -28,6 +25,7 @@
     "gulp-notify": "^2.2.0",
     "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.5.1",
-    "jshint": "^2.8.0"
+    "jshint": "^2.8.0",
+    "jshint-stylish": "^2.1.0"
   }
 }
